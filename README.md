@@ -46,3 +46,12 @@ Frontend (React) ↔ Backend (Flask API)
 ```bash
 git clone https://github.com/YOUR-USERNAME/llm-prompt-evaluation-system.git
 cd llm-prompt-evaluation-system
+```
+## 📸 Screenshots
+
+### 🖥️ Dashboard
+![Dashboard](frontend/public/screenshots/dashboard.png)
+
+### ⚡ Model Comparison
+![Comparison](frontend/public/screenshots/comparison.png)
+
