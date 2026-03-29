@@ -50,8 +50,8 @@ cd llm-prompt-evaluation-system
 ## 📸 Screenshots
 
 ### 🖥️ Dashboard
-![Dashboard](frontend/public/screenshots/dashboard.png)
+![Dashboard](frontend/public/dashboard.png)
 
 ### ⚡ Model Comparison
-![Comparison](frontend/public/screenshots/comparison.png)
+![Comparison](frontend/public/comparision.png)
 
